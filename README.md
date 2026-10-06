@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi, I'm Farsana 👋
 
 ## AI Driven Data Analyst | Machine Learning Enthusiast
